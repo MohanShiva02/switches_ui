@@ -1,0 +1,32 @@
+[
+  {
+    "Id" : 1,
+    "Device_Name" : "Light 1",
+    "Device_Status" : false
+  },
+  {
+    "Id" : 2,
+    "Device_Name" : "LED",
+    "Device_Status" : false
+  },
+  {
+    "Id" : 3,
+    "Device_Name" : "Light 3",
+    "Device_Status" : false
+  },
+  {
+    "Id" : 4,
+    "Device_Name" : "Light 4",
+    "Device_Status" : false
+  },
+  {
+    "Id" : 5,
+    "Device_Name" : "Light 5",
+    "Device_Status" : false
+  },
+  {
+    "Id" : 6,
+    "Device_Name" : "Light 6",
+    "Device_Status" : false
+  }
+]
